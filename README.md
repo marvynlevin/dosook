@@ -91,7 +91,7 @@
         - Ouvrez le [**Microsoft Store**](https://apps.microsoft.com/detail/9msvkqc78pk6?launch=true&mode=full&hl=fr-fr&gl=fr&ocid=bingwebsearch), recherchez **Debian**, et installez la distribution.
         - Lancez Debian pour l'initialisation, créez un nom d'utilisateur et un mot de passe.
 
-### Configuration de X
+### Configuration du logiciel
 
 Ouvrez une nouvelle fenêtre WSL Debian et exécutez les commandes suivantes :
 ```shell
