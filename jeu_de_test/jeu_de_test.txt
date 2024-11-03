@@ -1,0 +1,128 @@
+Hello World!
+Message : Hello World!
+        Nombre de symboles : 12
+        Nombre d'échantillons : 88200
+        Durée : 2.0 s
+
+Fichier audio: ./DosOok_message.wav
+        Sample Rate: 44100 Hz
+        Bits per Sample: 16 bits
+        Data Size: 176400 bytes
+Message décodé : Hello World!
+
+
+
+这句话是用中文写的
+Message : 这句话是用中文写的
+        Nombre de symboles : 9
+        Nombre d'échantillons : 67032
+        Durée : 1.52 s
+
+Fichier audio: ./DosOok_message.wav
+        Sample Rate: 44100 Hz
+        Bits per Sample: 16 bits
+        Data Size: 134064 bytes
+Message décodé : 这句话是用中文写的
+
+
+
+Здравствуйте, как поживаете?
+Message : Здравствуйте, как поживаете?
+        Nombre de symboles : 28
+        Nombre d'échantillons : 201095
+        Durée : 4.56 s
+
+Fichier audio: ./DosOok_message.wav
+        Sample Rate: 44100 Hz
+        Bits per Sample: 16 bits
+        Data Size: 402190 bytes
+Exception in thread "main" java.lang.IllegalArgumentException: Invalid outputBits array: 447 bytes is not a multiple of the bitsPerSample
+        at DosRead.decodeBitsToChar(DosRead.java:191)
+        at DosRead.main(DosRead.java:336)
+
+Certains caractères sont sur 32 bits
+
+
+
+!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_`abcdefghijklmnopqrstuvwxyz{|}~
+Message : !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_`abcdefghijklmnopqrstuvwxyz{|}~
+        Nombre de symboles : 93
+        Nombre d'échantillons : 659736
+        Durée : 14.96 s
+
+Fichier audio: ./DosOok_message.wav
+        Sample Rate: 44100 Hz
+        Bits per Sample: 16 bits
+        Data Size: 1319472 bytes
+Message décodé : !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_`abcdefghijklmnopqrstuvwxyz{|}~
+
+
+
+😄😃😆😉😌😏😒😕😘
+Message : 😄😃😆😉😌😏😒😕😘
+        Nombre de symboles : 18
+        Nombre d'échantillons : 130536
+        Durée : 2.96 s
+
+Fichier audio: ./DosOok_message.wav
+        Sample Rate: 44100 Hz
+        Bits per Sample: 16 bits
+        Data Size: 261072 bytes
+Message décodé : 😄😃😆😉😌😏😒😕😘
+
+
+
+𝐀𝐁𝐂𝐃𝐄𝐅𝐆𝐇𝐈𝐉𝐊𝐋𝐌𝐍𝐎𝐏𝐐𝐑𝐒𝐓𝐔𝐕𝐖𝐗𝐘𝐙
+Quel est votre message: 𝐀𝐁𝐂𝐃𝐄𝐅𝐆𝐇𝐈𝐉𝐊𝐋𝐌𝐍𝐎𝐏𝐐𝐑𝐒𝐓𝐔𝐕𝐖𝐗𝐘𝐙
+Message : 𝐀𝐁𝐂𝐃𝐄𝐅𝐆𝐇𝐈𝐉𝐊𝐋𝐌𝐍𝐎𝐏𝐐𝐑𝐒𝐓𝐔𝐕𝐖𝐗𝐘𝐙
+        Nombre de symboles : 52
+        Nombre d'échantillons : 370440
+        Durée : 8.4 s
+
+Fichier audio: ./DosOok_message.wav
+        Sample Rate: 44100 Hz
+        Bits per Sample: 16 bits
+        Data Size: 740880 bytes
+Message décodé : 𝐀𝐁𝐂𝐃𝐄𝐅𝐆𝐇𝐈𝐉𝐊𝐋𝐌𝐍𝐎𝐏𝐐𝐑𝐒𝐓𝐔𝐕𝐖𝐗𝐘𝐙
+
+
+
+Texte vide:
+Message :
+        Nombre de symboles : 0
+        Nombre d'échantillons : 3528
+        Durée : 0.08 s
+
+Fichier audio: ./DosOok_message.wav
+        Sample Rate: 44100 Hz
+        Bits per Sample: 16 bits
+        Data Size: 7056 bytes
+Message décodé :
+
+
+안녕하세요, 잘 지내시나요?
+Message : 안녕하세요, 잘 지내시나요?
+        Nombre de symboles : 15
+        Nombre d'échantillons : 109368
+        Durée : 2.48 s
+Fichier audio: ./DosOok_message.wav
+        Sample Rate: 44100 Hz
+        Bits per Sample: 16 bits
+        Data Size: 218736 bytes
+Message décodé : 안녕하세요, 잘 지내시나요?
+
+
+
+
+こんにちは、お元気ですか？
+Message : こんにちは、お元気ですか？
+        Nombre de symboles : 13
+        Nombre d'échantillons : 95256
+        Durée : 2.16 s
+
+Fichier audio: ./DosOok_message.wav
+        Sample Rate: 44100 Hz
+        Bits per Sample: 16 bits
+        Data Size: 190512 bytes
+Message décodé : こんにちは、お元気ですか？
+
