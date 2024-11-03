@@ -12,7 +12,7 @@
 - [DosOok présentation-pdf](./docs/S1B1_LEVIN_Marvyn_COLIN_Cédric_mon_diaporama.pdf) [DosOok présentation-pptx](./docs/S1B1_LEVIN_Marvyn_COLIN_Cédric_mon_diaporama.pptx)
 - [Rapport comparaison-pdf](./docs/S1B1_LEVIN_Marvyn_COLIN_Cédric_englishReport.pdf)
 - [Rapport de tests-pdf](./docs/S1B1_LEVIN_Marvyn_COLIN_Cédric_jeuDeTest.pdf)
-- [DosRead-send](DosSend.java)
+- [DosSend-java](DosSend.java)
 - [DosRead-java](DosRead.java)
 
 ## Cahier des Charges
