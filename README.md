@@ -151,7 +151,7 @@ javac *.java
 ./exec_DosSend.sh
 ```
 
-Pour utiliser d'autres fichiers d'entrée, modifiez les chemins dans les scripts d’exécution. Par exemple :
+Pour utiliser d'autres fichiers d'entrée ([Répertoire DosOok-Audio](https://github.com/marvynlevin/DosOok-audio)), modifiez les chemins dans les scripts d’exécution. Par exemple :
 - **Modifier le fichier d'entrée** dans `exec_DosRead.sh` :
   ```bash
   java DosRead ./tests/nom_nouveau_wav.wav
